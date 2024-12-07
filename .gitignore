@@ -1,5 +1,6 @@
 # Binaries for programs and examples
 /target/
+/target/debug
 
 # Cargo package manager settings and build files
 **/*.rs.bk
