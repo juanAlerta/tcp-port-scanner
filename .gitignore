@@ -2,6 +2,9 @@
 /target/
 /target/debug/
 
+*.exe
+*.pdb
+
 # Cargo package manager settings and build files
 **/*.rs.bk
 
