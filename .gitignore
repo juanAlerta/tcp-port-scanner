@@ -1,32 +1,4 @@
-# Binaries for programs and examples
-/target/
-/target/debug/
-
-*.exe
-*.pdb
-
-# Cargo package manager settings and build files
-**/*.rs.bk
-
-# Debugging files
-**/*.d
-
-# Mac OS files
+/target
 .DS_Store
-
-# Windows files
-Thumbs.db
-Desktop.ini
-
-# IDE settings
-.idea/
-*.iml
-
-# Optional rustup and cargo settings
-/.cargo/
-rust-toolchain
-rust-toolchain.toml
-
-# Generated files
-*.log
-*.lock
+config.toml
+posts.db
